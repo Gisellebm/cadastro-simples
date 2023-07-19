@@ -4,9 +4,13 @@
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=blue" alt="License">   
 </p>
 
-<h2 align="center">
-    <video alt="Bitcent" src="./public/Cadastro_Simples.webm" />
-</h2>
+<h1 align="center">
+    Cadastro Simples
+</h1>
+
+
+https://github.com/Gisellebm/cadastro-simples/assets/55713609/4d173afa-f9f1-4da7-94b4-33945bc11f94
+
 
 <br>
 
@@ -25,8 +29,8 @@ Lista de tecnologias utilizadas no projeto:
 1. Clone o repositório:
 
 ```bash
-$ git clone https://github.com/transformacaodev/bitcent
-$ cd bitcent
+$ git clone https://github.com/Gisellebm/cadastro-simples
+$ cd cadastro-simples
 ```
 
 2. Crie um projeto no Firebase e ative o Firestore.
@@ -54,7 +58,7 @@ O app estará disponível no endereço http://localhost:3000.
 
 ## Sobre o Projeto
 
-Bitcent é uma aplicação web de Cadastro Simples, mas foi de muito valor ao meu aprendizado, pois foi abordado vários conceitos importantes, tais como: hooks personalizados, interfaces, estilização usando o Tailwind CSS, fazer um CRUD -> Create, Read, Update e Delete; pude utilizar o Firebase para armazenamento de dados. 
+Bitcent é uma aplicação web de Cadastro bem simples, mas foi de muito valor ao meu aprendizado, pois foi abordado vários conceitos importantes, tais como: hooks personalizados, interfaces, useState, useeffect, estilização usando o Tailwind CSS, fazer um CRUD -> Create, Read, Update e Delete; pude utilizar o Firebase para armazenamento de dados. 
 O projeto foi criado na versão 10 do Next.js, mas quando fui integrar ao firebase, surgiram alguns problemas que foram resolvidos usando o 'npm audit fix'.
 
 
